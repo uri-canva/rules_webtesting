@@ -82,9 +82,9 @@ def org_chromium_chromium():
             "https://commondatastorage.googleapis.com/chromium-browser-snapshots/Linux_x64/664981/chrome-linux.zip",
         ],
         macos_sha256 =
-            "7c0ba93616f44a421330b1c1262e8899fbdf7916bed8b04c775e0426f6f35ec6",
+            "0000000000000000000000000000000000000000000000000000000000000000",
         macos_urls = [
-            "https://commondatastorage.googleapis.com/chromium-browser-snapshots/Mac/665002/chrome-mac.zip",
+            "https://commondatastorage.googleapis.com/chromium-browser-snapshots/Mac/665099/chrome-mac.zip",
         ],
         windows_sha256 =
             "f2facd0066270078d0e8999e684595274c359cac3946299a1ceedba2a5de1c63",
