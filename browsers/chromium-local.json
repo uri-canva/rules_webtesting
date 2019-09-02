@@ -1,7 +1,7 @@
 {
   "environment" : "local",
   "capabilities" : {
-    "browserName" : "chrome",
+    "browserName" : "chromium",
     "goog:chromeOptions" : {
       "binary" : "%FILE:CHROMIUM%",
       "args" : [
