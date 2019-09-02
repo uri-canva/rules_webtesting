@@ -5,7 +5,6 @@
     "goog:chromeOptions" : {
       "binary" : "%FILE:CHROMIUM%",
       "args" : [
-        "--headless", 
         "--use-gl=swiftshader-webgl"
       ]
     },
